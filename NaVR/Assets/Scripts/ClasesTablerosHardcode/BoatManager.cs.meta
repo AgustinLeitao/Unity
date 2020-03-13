@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: 48d6c8f94aa37254e9ed6088510edae5
+timeCreated: 1504817767
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - reticle: {instanceID: 0}
+  - player: {instanceID: 0}
+  - board: {instanceID: 0}
+  - hundido: {instanceID: 0}
+  - agua: {instanceID: 0}
+  - rocketUp: {instanceID: 0}
+  - rocketDown: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  - barco3Pos: {instanceID: 0}
+  - barco4Pos: {instanceID: 0}
+  - barco5Pos01: {instanceID: 0}
+  - barco5Pos02: {instanceID: 0}
+  - barco5Pos03: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

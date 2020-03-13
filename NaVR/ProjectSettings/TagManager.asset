@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - gamepad
+  - CabinaMarker
+  - PosicionesTableroAtaqueJugador
+  - Undefined
+  - BoardManager
+  - Barco
+  - PosicionesTableroJugador
+  - MarcadoresTableroJugador
+  - Administrador
+  - OpcionesFinPartida
+  - BarcoPosiciones
+  - HabilidadEspecial
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BtnDos
+  - BtnTres
+  - BtnCuatro
+  - BtnCinco
+  - ShipBoard
+  - Clickable
+  - TableroPosicion
+  - Barco1
+  - Barco2
+  - Barco3
+  - Barco4
+  - Barco5
+  - Barco6
+  - BtnRotarBarco
+  - BtnGuardarPartida
+  - BtnContinuar
+  - BtnLimpiarTablero
+  - BotonesDelJuego
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
